@@ -1,9 +1,10 @@
-// Local processing
+// Local
 git init - initialize a git project
 
 git add file_name - add file to staged changes
 git commit -m "commit message" - commit stages changed
-
+git checkout branch_name - switch a branch which is created before
+git checkout -b branch_name - create a branch from current branch and switch it
 
 changes - dəyişikliklər (U)
 staged changes - seçilmiş dəyişikliklər (A)
