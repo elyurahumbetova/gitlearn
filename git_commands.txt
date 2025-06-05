@@ -1,4 +1,8 @@
+// Local processing
 git init - initialize a git project
+
+git add file_name - add file to staged changes
+git commit -m "commit message" - commit stages changed
 
 
 changes - dəyişikliklər (U)
