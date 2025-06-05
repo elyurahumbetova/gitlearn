@@ -1,0 +1,7 @@
+git init - initialize a git project
+
+
+changes - dəyişikliklər (U)
+staged changes - seçilmiş dəyişikliklər (A)
+git history - tarixçə - commit
+commit - qruplaşdırılmış dəyişikliklər
