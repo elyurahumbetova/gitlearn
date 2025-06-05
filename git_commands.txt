@@ -10,3 +10,5 @@ staged changes - seçilmiş dəyişikliklər (A)
 git history - tarixçə - commit
 commit - qruplaşdırılmış dəyişikliklər
 branch - commitlər yığını
+merge - birləşdirmək
+origin - cari
