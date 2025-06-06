@@ -21,3 +21,5 @@ branch - commitlər yığını
 stash - arxa plana atma
 merge - birləşdirmək
 origin - cari
+
+ruleset test
