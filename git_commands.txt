@@ -21,3 +21,13 @@ branch - commitlər yığını
 stash - arxa plana atma
 merge - birləşdirmək
 origin - cari
+
+best practices - 
+1. never work on main branch directly
+bu o deməkdir ki, hər iş üçün ayrıca bir branch açılmalı, və hər zaman iş təmamilə
+bitdikdən sonra branch remote-a push edilib, remotedan mr (merge request) açılmalıdır
+
+2. Always put attention to main branch
+cari işlədiyimiz branch, hər zaman içərisində main-dəki dəyişiklikləri içərməlidir,
+işə başlamazdan əvvəl və iş bitdikdən sonra main hər zaman pull edilməlidir (git pull origin main)
+conflictləri iş branchlarında həll etmək üçün
