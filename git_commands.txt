@@ -7,6 +7,9 @@ git checkout branch_name - switch a branch which is created before
 git checkout -b branch_name - create a branch from current branch and switch it
 git merge branch_name - merges the target branch to current branch      
 git clone url - clones the project with url
+git fetch - fetches which branch has change (boolean)
+git pull - merges the remote branch to local branch
+git pull origin branch_name - merges the target remote branch to current local branch
 
 changes - dəyişikliklər (U)
 staged changes - seçilmiş dəyişikliklər (A)
